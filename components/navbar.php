@@ -27,7 +27,7 @@
 										<a class="nav-link" href="gift-cards" role="button">Gift Cards</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="utility" role="button">Utilities</a>
+										<a class="nav-link" href="utilities" role="button">Utilities</a>
 									</li>
 									<li class="nav-item dropdown mega-dropdown-sm">
 							        	<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Resources</a>
@@ -36,8 +36,8 @@
 												<div class="col-lg-6">
 													<div class="menu-column">
 														<ul class="style-none mega-dropdown-list">
-															<li><a href="service-v1.html" class="dropdown-item"><span>Service v-1</span></a></li>
-															<li><a href="service-v2.html" class="dropdown-item"><span>Service v-2</span></a></li>
+															<li><a href="how-it-works" class="dropdown-item"><span>How it works</span></a></li>
+															<li><a href="service-v2.html" class="dropdown-item"><span>Rate calculator</span></a></li>
 															<li><a href="service-details.html" class="dropdown-item"><span>Service Details</span></a></li>
 															<li><a href="team-v1.html" class="dropdown-item"><span>Team V-1</span></a></li>
 															<li><a href="team-v2.html" class="dropdown-item"><span>Team V-2</span></a></li>
@@ -53,7 +53,6 @@
 															<li><a href="testimonial.html" class="dropdown-item"><span>Testimonial</span></a></li>
 															<li><a href="pricing.html" class="dropdown-item"><span>Pricing</span></a></li>
 															<li><a href="faq.html" class="dropdown-item"><span>FAQ’s</span></a></li>
-															<li><a href="404.html" class="dropdown-item"><span>404 Error</span></a></li>
 														</ul>
 													</div>
 												</div>

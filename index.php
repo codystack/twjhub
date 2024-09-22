@@ -39,349 +39,140 @@ include "./components/navbar.php";
             <img src="images/lazy.svg" data-src="images/shape/shape_14.svg" alt="" class="lazy-img shapes shape_01">
 			<img src="images/lazy.svg" data-src="images/assets/screen_21.svg" alt="" class="lazy-img shapes shape_02 wow fadeInUp">
 		</div>
-		<!-- /.hero-banner-four -->
-
-		<!-- 
-		=============================================
-		    Text Feature Six
-		============================================== 
-		-->
-		<div class="text-feature-six position-relative mt-200 lg-mt-120">
-			<div class="container">
-                <div class="position-relative pb-140 xl-pb-100 md-pb-60">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-5">
-                            <div class="title-two mb-30">
-                                <div class="upper-title">Visa & Mastercard</div>
-								<h2>Grow financial Digitization.</h2>
-							</div>
-							<!-- /.title-two -->
-                            <p class="text-lg mb-35 pe-xl-5 me-xl-4">Digital agency with top rated talented people provide quality.</p>
-                            <a href="contact.html" class="btn-thirteen tran3s me-5">Apply Now</a>
-                        </div>
-                        <div class="col-lg-4 ms-auto">
-                            <div class="ps-xl-5 ms-xxl-2 md-mt-60">
-                                <div class="card-style-ten border-bottom mb-60 lg-mb-40">
-                                    <h4 class="fw-bold">Visa</h4>
-                                    <p>Digital agency with top rated talented people provide quality.</p>
-                                    <div class="main-count d-inline-block position-relative fw-bold"><span class="counter">1.75</span>m</div>
-                                    <div>Total Active user</div>
-                                </div>
-                                <!-- /.card-style-ten -->
-                                <div class="card-style-ten">
-                                    <h4 class="fw-bold">Mastercard</h4>
-                                    <p>Digital agency with top rated talented people provide quality.</p>
-                                    <div class="main-count d-inline-block position-relative fw-bold"><span class="counter">718</span>m</div>
-                                    <div>Total Active user</div>
-                                </div>
-                                <!-- /.card-style-ten -->
-                            </div>
-                        </div>
-                    </div>
-                    <div class="media-wrapper">
-                        <img src="images/lazy.svg" data-src="images/assets/hand.png" alt="" class="lazy-img w-100">
-                        <img src="images/lazy.svg" data-src="images/assets/screen_14.png" alt="" class="lazy-img shapes screen_01">
-                    </div>
-                    <img src="images/lazy.svg" data-src="images/shape/shape_15.png" alt="" class="lazy-img shapes shape_01">
-                    <img src="images/lazy.svg" data-src="images/shape/shape_16.svg" alt="" class="lazy-img shapes shape_02">
-                </div>
-            </div>
-		</div>
-		<!-- /.text-feature-six -->
-
-
-		<!-- 
-		=============================================
-			BLock Feature Eight
-		============================================== 
-		-->
-		<div class="block-feature-eight position-relative pt-130 lg-pt-80 pb-130 lg-pb-60">
-			<div class="container">
-				<div class="position-relative">
-					<div class="title-two mb-20 lg-mb-10">
-                        <h2>Card Features</h2>
-                    </div>
-                    <!-- /.title-two -->
-                    <p class="text-lg mb-45 lg-mb-10">Digital agency with top rated talented people provide quality</p>
-					<div class="row">
-						<div class="col-lg-4 d-flex wow fadeInUp">
-							<div class="card-style-eleven vstack tran3s w-100 mt-30">
-								<img src="images/lazy.svg" data-src="images/icon/icon_40.svg" alt="" class="lazy-img icon me-auto">
-								<h4 class="fw-500 mt-30 mb-15">Global Payment</h4>
-								<p class="mb-25">Maximize convenience by paying for ads, subscriptions, and inventory with Mastercard®.</p>
-								<a href="service-details.html" class="arrow-btn tran3s mt-auto stretched-link"><img src="images/lazy.svg" data-src="images/icon/icon_09.svg" alt="" class="lazy-img"></a>
-							</div>
-							<!-- /.card-style-eleven -->
-						</div>
-						<div class="col-lg-4 d-flex wow fadeInUp" data-wow-delay="0.1s">
-							<div class="card-style-eleven vstack tran3s w-100 mt-30">
-								<img src="images/lazy.svg" data-src="images/icon/icon_41.svg" alt="" class="lazy-img icon me-auto">
-								<h4 class="fw-500 mt-30 mb-15">Multiple Currency</h4>
-								<p class="mb-25">Use receiving accounts in a growing number of currencies and get paid like a local.</p>
-								<a href="service-details.html" class="arrow-btn tran3s mt-auto stretched-link"><img src="images/lazy.svg" data-src="images/icon/icon_09.svg" alt="" class="lazy-img"></a>
-							</div>
-							<!-- /.card-style-eleven -->
-						</div>
-						<div class="col-lg-4 d-flex wow fadeInUp" data-wow-delay="0.2s">
-							<div class="card-style-eleven vstack tran3s w-100 mt-30">
-								<img src="images/lazy.svg" data-src="images/icon/icon_42.svg" alt="" class="lazy-img icon me-auto">
-								<h4 class="fw-500 mt-30 mb-15">Online Payment</h4>
-								<p class="mb-25">Use receiving accounts in a growing number of currencies and get paid like a local.</p>
-								<a href="service-details.html" class="arrow-btn tran3s mt-auto stretched-link"><img src="images/lazy.svg" data-src="images/icon/icon_09.svg" alt="" class="lazy-img"></a>
-							</div>
-							<!-- /.card-style-eleven -->
-						</div>
-					</div>
-
-					<div class="section-btn md-mt-40">
-						<a href="service-v1.html" class="btn-thirteen tran3">Learn More</a>
-					</div>
-					<!-- /.section-subheading -->
-				</div>
-			</div>
-            <img src="images/lazy.svg" data-src="images/shape/shape_16.svg" alt="" class="lazy-img shapes shape_01">
-		</div>
-		<!-- /.block-feature-eight -->
 		
 
-
-		<!--
-		=====================================================
-			Text Feature Seven
-		=====================================================
-		-->
-		<div class="text-feature-seven mt-170 lg-mt-80">
+		<div class="feedback-section-three position-relative">
 			<div class="container">
-				<div class="row align-items-center">
-					<div class="col-lg-6 order-lg-last wow fadeInRight">
-                        <div class="ps-xl-5 ms-xxl-4">
-                            <div class="title-three mb-35 md-mb-20">
-                                <div class="upper-title">management</div>
-                                <h2>Arrange & optimize your payments.</h2>
+				<div class="position-relative">
+                    <div class="partner-logo-one mt-80">
+                        <div class="partner-slider-one">
+                            <div class="item">
+                                <div class="logo d-flex align-items-center justify-content-center"><img src="images/cards/amazon.svg" alt=""></div>
                             </div>
-                            <!-- /.title-three -->
-                            <p class="text-lg mb-40 lg-mb-30">Optimize expense tracking across platforms, & product lines using multiple cards.</p>
+                            <div class="item">
+                                <div class="logo d-flex align-items-center justify-content-center"><img src="images/cards/american_express.svg" alt=""></div>
+                            </div>
+                            <div class="item">
+                                <div class="logo d-flex align-items-center justify-content-center"><img src="images/cards/ebay.svg" alt=""></div>
+                            </div>
+                            <div class="item">
+                                <div class="logo d-flex align-items-center justify-content-center"><img src="images/cards/google_play.svg" alt=""></div>
+                            </div>
+                            <div class="item">
+                                <div class="logo d-flex align-items-center justify-content-center"><img src="images/cards/nike.svg" alt=""></div>
+                            </div>
+                            <div class="item">
+                                <div class="logo d-flex align-items-center justify-content-center"><img src="images/cards/nordstom.svg" alt=""></div>
+                            </div>
+                            <div class="item">
+                                <div class="logo d-flex align-items-center justify-content-center"><img src="images/cards/sephora.svg" alt=""></div>
+                            </div>
+							<div class="item">
+                                <div class="logo d-flex align-items-center justify-content-center"><img src="images/cards/steam.svg" alt=""></div>
+                            </div>
+							<div class="item">
+                                <div class="logo d-flex align-items-center justify-content-center"><img src="images/cards/vanilla.svg" alt=""></div>
+                            </div>
+							<div class="item">
+                                <div class="logo d-flex align-items-center justify-content-center"><img src="images/cards/walmart.svg" alt=""></div>
+                            </div>
+                        </div>
+                    </div>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="block-feature-seven position-relative mt-100 lg-mt-80">
+			<div class="container">
+				<div class="position-relative">
+					<div class="row">
+						<div class="col-xl-11 wow fadeInLeft">
+							<div class="title-one pe-xxl-5 mb-50 lg-mb-30">
+								<h2 class="text-dark">Your one-stop shop for gift cards, crypto, and bill payments.</h2>
+							</div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-lg-5 d-flex wow fadeInUp">
+							<div class="card-style-nine tran3s w-100 mt-30" style="background: #e6ddfd; padding: 50px 55px 0; border-radius: 50px;">
+								<div class="d-flex justify-content-between align-items-center flex-wrap">
+								    <h3 class="fw-bold m0 text-dark order-first">Mutual Funds.</h3>
+                                </div>
+								<p class="mt-35 lg-mt-30 mb-60 lg-mb-40">Mutual funds enable collective investment, managed by professionals for potential growth.</p>
+								<img src="images/lazy.svg" data-src="images/assets/screen_08.svg" alt="" class="lazy-img mt-auto me-auto ms-auto w-100">
+							</div>
+						</div>
+						<div class="col-lg-7 d-flex wow fadeInUp" data-wow-delay="0.1s">
+							<div class="card-style-nine tran3s w-100 mt-30" style="background: #ffeae4; padding: 50px 55px 0; border-radius: 50px;">
+								<div class="d-flex justify-content-between align-items-center flex-wrap">
+								    <h3 class="fw-bold m0 text-dark order-first">Pension Scheme.</h3>
+                                </div>
+								<p class="mt-35 lg-mt-30 mb-60 lg-mb-40">Pension schemes ensure financial security during retirement years for eligible individuals. Retirement pensions provide financial security for qualifying individuals.</p>
+								<img src="images/lazy.svg" data-src="images/assets/screen_09.svg" alt="" class="lazy-img mt-auto me-auto ms-auto w-100">
+							</div>
+						</div>
+						<div class="col-12 d-flex wow fadeInUp" data-wow-delay="0.2s">
+							<div class="card-style-nine tran3s w-100 mt-30" style="background: #e6fafb; padding: 50px 55px 0; border-radius: 50px;">
+								<div class="row align-items-end">
+                                    <div class="col-lg-6">
+                                        <div class="icon tran3s rounded-circle d-flex align-items-center justify-content-center"><img src="images/lazy.svg" data-src="images/icon/icon_38.svg" alt="" class="lazy-img"></div>
+                                        <h3 class="fw-bold mt-30 lg-mt-20 text-dark">International Multi-Currency Visa & Master Card.</h3>
+                                        <p class="mt-35 lg-mt-30 mb-40">International banking provides global financial services, including cross-border transactions, currency exchange, and offshore investments.</p>
+                                    </div>
+                                    <div class="col-lg-5 ms-auto">
+                                        <img src="images/lazy.svg" data-src="images/assets/screen_10.svg" alt="" class="lazy-img mt-auto me-auto ms-auto w-100">
+                                    </div>
+                                </div>
+							</div>
+							<!-- /.card-style-nine -->
+						</div>
+					</div>
+                    <img src="images/lazy.svg" data-src="images/shape/shape_13.svg" alt="" class="lazy-img shapes shape_01">
+				</div>
+			</div>
+		</div>
+
+		<div class="fancy-banner-four position-relative mt-150 lg-mt-80 pt-80 lg-pt-50 wow fadeInUp">
+			<div class="container">
+				<div class="row align-items-end">
+					<div class="col-lg-6 order-lg-last">
+						<div class="pb-120 xl-pb-100 lg-pb-50 ps-xl-5">
+                            <div class="title-one mb-30">
+                                <h2 class="text-dark">Download our bank Mobile App.</h2>
+                            </div>
+                            <!-- /.title-one -->
+                            <p class="mb-40">Control of all your banking needs needs anywhere, anytime</p>
                             <ul class="style-none">
-                                <li>Mobile app easy management & access.</li>
-                                <li>Ton’s of features for handle the card easily & safely</li>
-                                <li>Strong security system.</li>
+                                <li>Compare different insurance Item</li>
+                                <li>Buy, store and share all your policies online</li>
+                                <li>Email & Live chat</li>
                             </ul>
-                            <div class="d-flex justify-content-between align-items-center mt-65 lg-mt-50">
-                                <a href="about-us-v1.html" class="btn-thirteen tran3 flex-fill">Learn More</a>
-                                <a href="about-us-v1.html" class="btn-fourteen tran3s"><i class="bi bi-arrow-right"></i></a>
+                            <div class="d-sm-flex align-items-center platform-button-group mt-50 lg-mt-30">
+                                <a href="#" class="d-flex align-items-center windows-button">
+                                    <img src="images/lazy.svg" data-src="images/icon/playstore.svg" alt="" class="lazy-img icon">
+                                    <div>
+                                        <span>Get it on</span>
+                                        <strong>Google play</strong>
+                                    </div>
+                                </a>
+                                <a href="#" class="d-flex align-items-center ios-button">
+                                    <img src="images/lazy.svg" data-src="images/icon/apple.svg" alt="" class="lazy-img icon">
+                                    <div>
+                                        <span>Download on the</span>
+                                        <strong>App store</strong>
+                                    </div>
+                                </a>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-6 col-md-8 m-auto wow fadeInLeft">
-                        <div class="media-wrapper md-mt-60">
-                            <img src="images/lazy.svg" data-src="images/assets/screen_15.png" alt="" class="lazy-img">
-                        </div>
-                    </div>
-				</div>
-
-                <div class="border-bottom mt-40 pb-50 sm-pb-30">
-                    <div class="row">
-						<div class="col-lg-4 d-flex wow fadeInUp">
-							<div class="card-style-twelve w-100 text-center mt-30">
-								<div class="icon m-auto tran3s d-flex align-items-center justify-content-center rounded-circle"><img src="images/lazy.svg" data-src="images/icon/icon_43.svg" alt="" class="lazy-img"></div>
-								<h4 class="fw-bold mt-20 mb-15">Instant Transfer - Free</h4>
-								<p class="ps-xl-4 pe-xl-4">0% charge for online money transfer from you wallet instant.</p>
-							</div>
-							<!-- /.card-style-twelve -->
-						</div>
-						<div class="col-lg-4 d-flex wow fadeInUp" data-wow-delay="0.1s">
-							<div class="card-style-twelve w-100 text-center mt-30">
-								<div class="icon m-auto tran3s d-flex align-items-center justify-content-center rounded-circle"><img src="images/lazy.svg" data-src="images/icon/icon_44.svg" alt="" class="lazy-img"></div>
-								<h4 class="fw-bold mt-20 mb-15">Google & Apple pay</h4>
-								<p class="ps-xl-4 pe-xl-4">Pay google & apple payment with your card without any hassle</p>
-							</div>
-							<!-- /.card-style-twelve -->
-						</div>
-						<div class="col-lg-4 d-flex wow fadeInUp" data-wow-delay="0.2s">
-							<div class="card-style-twelve w-100 text-center mt-30">
-								<div class="icon m-auto tran3s d-flex align-items-center justify-content-center rounded-circle"><img src="images/lazy.svg" data-src="images/icon/icon_45.svg" alt="" class="lazy-img"></div>
-								<h4 class="fw-bold mt-20 mb-15">Top Security</h4>
-								<p class="ps-xl-4 pe-xl-4">World-class security that makes your money safe & secure.</p>
-							</div>
-							<!-- /.card-style-twelve -->
-						</div>
 					</div>
-                </div>
-			</div>
-		</div>
-		<!-- /.text-feature-seven -->
-
-
-		<!--
-		=====================================================
-			Text Feature Eight
-		=====================================================
-		-->
-		<div class="text-feature-eight mt-130 lg-mt-80">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-6 wow fadeInLeft">
-                        <div class="pe-xl-5 me-xxl-4 mt-50 lg-mt-10">
-                            <div class="title-three mb-50 lg-mb-30">
-                                <div class="upper-title">Card</div>
-                                <h2>Take control your Money.</h2>
-                            </div>
-                            <!-- /.title-three -->
-                            <div class="accordion accordion-style-three mb-70 lg-mb-40" id="accordionOne">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                            Register & Create Account
-                                        </button>
-                                      </h2>
-                                      <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
-                                        <div class="accordion-body">
-                                            <p>It only takes 5 minutes. Set-up is smooth and simple, with fully customizable page design to reflect your brand.</p>
-                                        </div>
-                                      </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                                            Manage Your Card
-                                        </button>
-                                    </h2>
-                                    <div id="collapseTwo" class="accordion-collapse collapse show" data-bs-parent="#accordionOne">
-                                        <div class="accordion-body">
-                                            <p>It only takes 5 minutes. Set-up is smooth and simple, with fully customizable page design to reflect your brand.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                            Atm withdraw & Online Banking
-                                        </button>
-                                    </h2>
-                                    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
-                                        <div class="accordion-body">
-                                            <p>It only takes 5 minutes. Set-up is smooth and simple, with fully customizable page design to reflect your brand.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="about-us-v1.html" class="btn-thirteen tran3 flex-fill">Learn More</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-8 m-auto wow fadeInRight">
-                        <div class="media-wrapper md-mt-40">
-                            <img src="images/lazy.svg" data-src="images/assets/screen_16.png" alt="" class="lazy-img ms-auto">
-                        </div>
-                    </div>
-				</div>
-			</div>
-		</div>
-		<!-- /.text-feature-eight -->
-		
-
-
-		<!--
-		=====================================================
-			Text Feature Nine
-		=====================================================
-		-->
-		<div class="text-feature-nine position-relative mt-180 lg-mt-80">
-			<div class="container">
-				<div class="position-relative">
-					<div class="row">
-						<div class="col-lg-6 wow fadeInLeft">
-							<div class="pt-110 lg-pt-80 pb-300 xl-pb-200 md-pb-50 pe-xxl-5">
-                                <div class="title-two mb-30">
-                                    <h2 class="text-white">Payments for all <span>hassle-free.</span></h2>
-                                </div>
-                                <!-- /.title-two -->
-                                <p class="text-lg text-white opacity-75 mb-50 lg-mb-30">Payments made simple for all and every industry</p>
-                                <div class="row">
-                                    <div class="col-sm-6">
-                                        <div class="block mt-30">
-                                            <img src="images/lazy.svg" data-src="images/icon/icon_46.svg" alt="" class="lazy-img icon">
-                                            <h4 class="fw-500 text-white mt-35 lg-mt-30 mb-25">Management</h4>
-                                            <p class="text-white opacity-75">Elit esse cillum dolore eutile fugiat nulla pariatur</p>
-                                        </div>
-                                        <!-- /.block -->
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="block mt-30">
-                                            <img src="images/lazy.svg" data-src="images/icon/icon_47.svg" alt="" class="lazy-img icon">
-                                            <h4 class="fw-500 text-white mt-35 lg-mt-30 mb-25">Security</h4>
-                                            <p class="text-white opacity-75">quis nostrud exercit ullamo ea laboris nisi ut aliqui. quis nos exercit laboris nisi.</p>
-                                        </div>
-                                        <!-- /.block -->
-                                    </div>
-                                </div>
-                            </div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="vertical-text-wrapper">
-				<div class="text-list"><span>Shopping</span></div>
-				<div class="text-list"><span>Gaming</span></div>
-				<div class="text-list"><span>Management</span></div>
-				<div class="text-list"><span>Payment</span></div>
-				<div class="text-list"><span>Freelancer</span></div>
-				<img src="images/lazy.svg" data-src="images/shape/shape_17.svg" alt="" class="lazy-img shapes shape_01">
-				<img src="images/lazy.svg" data-src="images/shape/shape_18.svg" alt="" class="lazy-img shapes shape_02">
-			</div>
-			<!-- /.vertical-text-wrapper -->
-			<img src="images/lazy.svg" data-src="images/shape/shape_18.svg" alt="" class="lazy-img shapes shape_03">
-			<img src="images/lazy.svg" data-src="images/assets/screen_17.png" alt="" class="lazy-img shapes shape_04">
-		</div>
-        
-        <?php include "./components/testimonials.php"; ?>
-        
-		<div class="block-feature-three blog-section-four position-relative mt-180 lg-mt-80">
-			<div class="container">
-				<div class="position-relative">
-					<div class="row">
-						<div class="col-lg-8">
-							<div class="title-two mb-70 lg-mb-50">
-								<h2>Our Blog</h2>
-							</div>
-							<!-- /.title-two -->
-							<div class="block-one pt-45 lg-pt-30 pb-20 ps-3 ps-xl-5 pe-xl-5 pe-3 position-relative border-30 wow fadeInUp">
-								<div class="row">
-									<div class="col-lg-5">
-										<div class="tag d-inline-block border-30 fw-500 text-uppercase mb-15">Consulting</div>
-										<div class="date text-dark"><span class="fw-500">Featured -</span> 18 Jul 2023</div>
-									</div>
-									<div class="col-lg-7">
-										<h3 class="block-title d-inline-block position-relative"><a href="blog-details.html">Manage your online banking and get rewarded</a></h3>
-									</div>
-								</div>
-							</div>
-							<!-- /.block-one -->
-						</div>
-
-						<div class="col-lg-4">
-							<div class="block-three border-30 ps-lg-4 ps-3 pe-lg-4 pe-3 pt-40 lg-pt-30 pb-30 md-mt-30 wow fadeInUp" data-wow-delay="0.2s">
-								<div class="date">3 Aug 2023</div>
-								<h3 class="block-title d-inline-block position-relative mt-20 mb-80 lg-mb-50"><a href="blog-details.html">Gold card user will get priority pass for Airport.</a></h3>
-								<div class="d-flex align-items-center justify-content-between">
-									<div class="tag text-uppercase fw-500">DESIGN</div>
-									<a href="blog-details.html" class="round-btn rounded-circle d-flex align-items-center justify-content-center tran3s"><i class="bi bi-arrow-up-right"></i></a>
-								</div>
-							</div>
-							<!-- /.block-three -->
-							<div class="block-four border-30 ps-lg-4 ps-3 pe-lg-4 pe-3 pt-15 pb-30 mt-45 lg-mt-30 wow fadeInUp" data-wow-delay="0.2s">
-								<h3 class="block-title d-inline-block position-relative mt-20 mb-250 lg-mb-150 sm-mb-100"><a href="blog-details.html">Our Travel Card Makes <br class="d-none d-xl-block">you Happy.</a></h3>
-								<div class="d-flex align-items-center justify-content-between">
-									<div class="tag text-uppercase fw-500">DESIGN</div>
-									<a href="blog-details.html" class="round-btn rounded-circle d-flex align-items-center justify-content-center tran3s"><i class="bi bi-arrow-up-right"></i></a>
-								</div>
-							</div>
-							<!-- /.block-four -->
-						</div>
+					<div class="col-lg-6">
+						<img src="images/lazy.svg" data-src="images/assets/screen_11.png" alt="" class="lazy-img">
 					</div>
 				</div>
 			</div>
 		</div>
-		<!-- /.block-feature-three -->
 
 
 <?php include "./components/footer.php"; ?>

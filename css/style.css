@@ -2790,7 +2790,7 @@ iframe {
 
 .theme-main-menu .nav-item .nav-link {
     font-family: "Satoshi";
-    font-weight: 400;
+    font-weight: 300;
     font-size: 20px;
     line-height: initial;
     color: #000;
@@ -3713,7 +3713,7 @@ iframe {
 }
 
 .fancy-banner-four ul li:after {
-    content: "ï˜³";
+    content: "";
     position: absolute;
     font-family: "bootstrap-icons";
     font-size: .95em;
@@ -3896,7 +3896,7 @@ iframe {
 }
 
 .fancy-banner-seven .bg-wrapper li:after {
-    content: "ï˜³";
+    content: "";
     position: absolute;
     font-family: "bootstrap-icons";
     top: 21px;
@@ -4828,7 +4828,7 @@ iframe {
 }
 
 .text-feature-one .media-list-item li:after {
-    content: "ï˜³";
+    content: "";
     position: absolute;
     font-family: "bootstrap-icons";
     top: 6px;
@@ -4970,7 +4970,7 @@ iframe {
 }
 
 .text-feature-five li:after {
-    content: "ï˜³";
+    content: "";
     position: absolute;
     font-family: "bootstrap-icons";
     top: 6px;
@@ -5051,7 +5051,7 @@ iframe {
 }
 
 .text-feature-seven ul li:after {
-    content: "ï˜³";
+    content: "";
     position: absolute;
     font-family: "bootstrap-icons";
     top: 1px;
@@ -5496,7 +5496,7 @@ iframe {
 }
 
 .accordion-style-two .accordion-item .accordion-body ul li:before {
-    content: "ï˜³";
+    content: "";
     position: absolute;
     font-family: "bootstrap-icons";
     font-size: 18px;
@@ -5756,7 +5756,7 @@ iframe {
 }
 
 .user-data-form .agreement-checkbox input[type=checkbox]:checked+label:before {
-    content: "ï˜³";
+    content: "";
     font-family: bootstrap-icons !important;
     background: #000;
     color: #fff;
@@ -6645,7 +6645,7 @@ iframe {
 }
 
 .service-details .details-meta .list-item li:after {
-    content: "ï˜³";
+    content: "";
     position: absolute;
     font-family: "bootstrap-icons";
     font-size: 18px;
@@ -8035,7 +8035,7 @@ iframe {
 }
 
 .blog-details .post-details-meta .list-item li:after {
-    content: "ï˜³";
+    content: "";
     position: absolute;
     font-family: "bootstrap-icons";
     font-size: .95em;
@@ -8632,7 +8632,7 @@ iframe {
 }
 
 .footer-four .footer-intro li a {
-    font-weight: 500;
+    font-weight: 400;
     color: rgba(255,255,255,.8)
 }
 
@@ -8643,9 +8643,9 @@ iframe {
 .footer-four .footer-title {
     display: inline-block;
     position: relative;
-    font-size: 24px;
+    /* font-size: 24px; */
     color: #fff;
-    font-weight: 500;
+    font-weight: 400;
     margin-bottom: 15px
 }
 
@@ -8662,7 +8662,7 @@ iframe {
 
 .footer-four .footer-nav-link a {
     color: rgba(255,255,255,.75);
-    line-height: 44px;
+    line-height: 40px;
     font-weight: 300;
     transition: all .2s ease-in-out 0s
 }
@@ -10760,7 +10760,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 .product-details-one .product-info .product-feature li:before {
-    content: "ï˜³";
+    content: "";
     position: absolute;
     font-family: "bootstrap-icons";
     top: 2px;
@@ -10853,7 +10853,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 .product-details-one .product-review-tab .tab-content .product-feature li:before {
-    content: "ï˜³";
+    content: "";
     position: absolute;
     font-family: "bootstrap-icons";
     top: 2px;
@@ -12258,7 +12258,9 @@ body.compensate-for-scrollbar {
 }
 
 .slick-slide img {
-    display: block
+    display: block;
+    max-height: 2rem;
+    width: auto;
 }
 
 .slick-slide.slick-loading img {

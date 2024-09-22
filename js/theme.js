@@ -1,11 +1,3 @@
-// js Document
-
-// Created on   : 15/09/2023.
-// Theme Name   : Babun - Business & Finance HTML5 Template
-// Version      : 1.0.
-// Developed by : (me@heloshape.com) / (www.me.heloshape.com)
-
-
 (function($) {
     "use strict";
 
@@ -291,10 +283,10 @@
               arrows: false,
               lazyLoad: 'ondemand',
               centerPadding: '0px',
-              slidesToShow: 5,
+              slidesToShow: 6,
               slidesToScroll: 1,
               autoplay: true,
-              autoplaySpeed: 3500,
+              autoplaySpeed: 1000,
               responsive: [
                 {
                   breakpoint: 992,

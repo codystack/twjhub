@@ -1,12 +1,12 @@
         <div class="footer-large-wrapper position-relative">
-			<div class="footer-four">
+			<div class="footer-four p-0">
 				<div class="container">
-					<div class="inner-wrapper">
+					<div class="">
 						<div class="row justify-content-between">
 							<div class="col-lg-4 footer-intro mb-40">
-								<div class="logo mb-25">
+								<div class="logo">
 									<a href="./">
-										<img src="images/logo-dark.svg" alt="">
+										<img src="images/logo-dark.svg" width="200" alt="">
 									</a>
 								</div> 
                                 
@@ -30,32 +30,32 @@
 								</ul>
 							</div>
 							<div class="col-lg-2 col-sm-4 mb-20">
-								<h5 class="footer-title">Links</h5>
+								<h5 class="footer-title">Explore</h5>
 								<ul class="footer-nav-link style-none">
-									<li><a href="index.html">Home</a></li>
-									<li><a href="pricing.html">Pricing Plan</a></li>
-									<li><a href="about-us-v1.html">About us</a></li>
-									<li><a href="service-v1.html">Our services</a></li>
-									<li><a href="project-v1.html">Portfolio</a></li>
-									<li><a href="service-v2.html">Features</a></li>
+									<li><a href="how-it-works">How it works</a></li>
+									<li><a href="crypto">Crypto</a></li>
+									<li><a href="gift-cards">Gift cards</a></li>
+									<li><a href="utilities">Utilities</a></li>
+									<li><a href="rates">Rate calculator</a></li>
 								</ul>
 							</div>
 							<div class="col-lg-2 col-sm-4 mb-20">
 								<h5 class="footer-title">Company</h5>
 								<ul class="footer-nav-link style-none">
-									<li><a href="about-us-v2.html">About us</a></li>
-									<li><a href="blog-v2.html">Blogs</a></li>
-									<li><a href="faq.html">FAQ’s</a></li>
+									<li><a href="about">About</a></li>
+									<li><a href="faq">FAQ’s</a></li>
+									<li><a href="https://blog.twjhub.com" target="_blank">Blog</a></li>
 									<li><a href="contact.html">Contact</a></li>
+									<li><a href="contact.html">Download app</a></li>
 								</ul>
 							</div>
 							<div class="col-xxl-2 col-lg-3 col-sm-4 mb-20">
-								<h5 class="footer-title">Support</h5>
+								<h5 class="footer-title">Legal</h5>
 								<ul class="footer-nav-link style-none">
-									<li><a href="contact.html">Terms of use</a></li>
-									<li><a href="contact.html">Terms & conditions</a></li>
-									<li><a href="contact.html">Privacy</a></li>
-									<li><a href="contact.html">Cookie policy</a></li>
+									<li><a href="terms">Terms & conditions</a></li>
+									<li><a href="privacy">Privacy policy</a></li>
+									<li><a href="cookie">Cookie policy</a></li>
+									<li><a href="aml">AML policy</a></li>
 								</ul>
 							</div>
 						</div>
