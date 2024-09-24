@@ -1,7 +1,8 @@
-        <div class="footer-large-wrapper position-relative">
+		<?php include "./components/download-modal.php"; ?>
+		<div class="footer-large-wrapper position-relative">
 			<div class="footer-four p-0">
 				<div class="container">
-					<div class="">
+					<div class="inner-wrapper">
 						<div class="row justify-content-between">
 							<div class="col-lg-4 footer-intro mb-40">
 								<div class="logo">
@@ -45,8 +46,8 @@
 									<li><a href="about">About</a></li>
 									<li><a href="faq">FAQ’s</a></li>
 									<li><a href="https://blog.twjhub.com" target="_blank">Blog</a></li>
-									<li><a href="contact.html">Contact</a></li>
-									<li><a href="contact.html">Download app</a></li>
+									<li><a href="contact">Contact</a></li>
+									<li><a href="#" data-bs-toggle="modal" data-bs-target="#downloadModal">Download app</a></li>
 								</ul>
 							</div>
 							<div class="col-xxl-2 col-lg-3 col-sm-4 mb-20">
@@ -56,6 +57,7 @@
 									<li><a href="privacy">Privacy policy</a></li>
 									<li><a href="cookie">Cookie policy</a></li>
 									<li><a href="aml">AML policy</a></li>
+									<li><a href="acknowledgements">Acknowledgements</a></li>
 								</ul>
 							</div>
 						</div>
