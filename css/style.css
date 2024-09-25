@@ -65,6 +65,14 @@ hr {
     margin: 5px 0
 }
 
+.fw-800 {
+    font-weight: 800
+}
+
+.fw-700 {
+    font-weight: 700
+}
+
 .fw-600 {
     font-weight: 600
 }
@@ -95,7 +103,7 @@ hr {
 }
 
 .light-bg-deep {
-    background-color: #ebf3ee
+    background-color: #F1C8FF
 }
 
 .font-magnita {
@@ -343,6 +351,23 @@ hr {
     color: #27014F
 }
 
+.btn-four1 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 50px;
+    padding: 0 38px;
+    text-align: center;
+    border-radius: 8px;
+    color: #f0c9ff;
+    background-color: #27014F;
+    transition: all .3s ease-in-out 0s
+}
+
+.btn-four1:hover {
+    background-color: #D46CF5;
+    color: #27014F
+}
+
 .btn-five .text {
     font-weight: 500;
     font-style: italic;
@@ -566,13 +591,13 @@ hr {
     line-height: 46px;
     text-align: center;
     color: #fff;
-    background-color: #202020;
+    background-color: #27014f;
     transition: all .3s ease-in-out 0s
 }
 
 .btn-fourteen:hover {
     background-color: #D46CF5;
-    color: #000
+    color: #27014f
 }
 
 .btn-fifteen {
@@ -2720,6 +2745,9 @@ iframe {
     .xs-mb-200 {
         margin-bottom: 200px !important
     }
+    .text-xs-center {
+        text-align: center!important
+    }
 }
 
 .theme-main-menu {
@@ -3724,7 +3752,7 @@ iframe {
 }
 
 .fancy-banner-four {
-    background: #dceff0;
+    /* background: #dceff0; */
     z-index: 1
 }
 
@@ -8644,7 +8672,7 @@ iframe {
     width: 100%;
     right: 0;
     bottom: 0;
-    top: -20%;
+    top: 0;
     background: url(../images/assets/bg_04.svg) no-repeat center bottom;
     background-size: cover;
     z-index: -1

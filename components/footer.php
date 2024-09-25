@@ -1,6 +1,6 @@
 		<?php include "./components/download-modal.php"; ?>
 		<div class="footer-large-wrapper position-relative">
-			<div class="footer-four p-0">
+			<div class="footer-four pt-70">
 				<div class="container">
 					<div class="inner-wrapper">
 						<div class="row justify-content-between">
