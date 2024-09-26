@@ -2887,7 +2887,7 @@ iframe {
 
 .theme-main-menu.menu-style-two {
     padding: 0;
-    background: #edf1ee
+    background: rgba(0, 0, 0, 0);
 }
 
 .theme-main-menu.menu-style-two .info-row {
@@ -2927,7 +2927,8 @@ iframe {
     padding-top: 8px;
     padding-bottom: 8px;
     border-top: 1px solid #e0e0e0;
-    border-bottom: 1px solid #e0e0e0
+    border-bottom: 1px solid #e0e0e0;
+    background-color: #e9d8ee
 }
 
 .theme-main-menu.menu-style-two.fixed .info-row {

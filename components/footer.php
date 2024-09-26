@@ -85,6 +85,7 @@
 		<script src="vendor/jquery.counterup.min.js"></script>
 		<script src="vendor/jquery.waypoints.min.js"></script>
 		<script src="vendor/validator.js"></script>
+		<script src="vendor/isotope.pkgd.min.js"></script>
 		<script src="js/theme.js"></script>
 		<script src='//uae.fw-cdn.com/40133769/78935.js' chat='true'></script>
 	</div>
