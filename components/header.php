@@ -4,12 +4,11 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="keywords" content="Digital marketing agency, Digital marketing company, Digital marketing services">
-	<meta name="description" content="Babun is a beautiful website template designed for Business & Consulting websites.">
+	<meta name="description" content="Trading your digital assets for cash has never been easier. Our platform offers a quick, secure, and convenient way to sell your cryptocurrency or gift cards, with no hidden fees or complicated procedures.">
     <meta property="og:site_name" content="TWJ Hub">
     <meta property="og:url" content="https://twjhub.com">
     <meta property="og:type" content="website">
     <meta property="og:title" content="TWJ Hub™ :: Trade smarter, not harder.">
-	<meta name='og:image' content='images/assets/ogg.png'>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -25,9 +24,21 @@
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <script src="vendor/html5shiv.js"></script>
     <script src="vendor/respond.js"></script>
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WT29FNKK');</script>
+	<!-- End Google Tag Manager -->
 </head>
 
 <body>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT29FNKK"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	 
 	<div class="main-page-wrapper">
 		<div id="preloader">
 			<div id="ctn-preloader" class="ctn-preloader">
