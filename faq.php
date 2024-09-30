@@ -126,24 +126,48 @@ include "./components/navbar-alt-light.php";
 							<div class="accordion-item">
 								<h2 class="accordion-header">
 									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneA" aria-expanded="false" aria-controls="collapseOneA">
-										How does the free trial work?
+                                        How fast will I get paid?
 									</button>
 							  	</h2>
 							  	<div id="collapseOneA" class="accordion-collapse collapse" data-bs-parent="#accordionTwo">
 									<div class="accordion-body">
-										<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+										<p>Expect fast payments. We typically process payments within 5-10 minutes to ensure a seamless experience and timely delivery of your funds.</p>
 									</div>
 							  	</div>
 							</div>
 							<div class="accordion-item">
 								<h2 class="accordion-header">
 									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwoA" aria-expanded="false" aria-controls="collapseTwoA">
-										How do you find different criteria in your process?
+                                        How are the gift codes delivered?
 									</button>
 								</h2>
 								<div id="collapseTwoA" class="accordion-collapse collapse" data-bs-parent="#accordionTwo">
 									<div class="accordion-body">
-										<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+										<p>Enjoy instant delivery of your gift cards on TWJ Hub. Your purchase will be completed in just two minutes, and the gift card will be sent directly to your email and displayed on the transaction details page.</p>
+									</div>
+								</div>
+							</div>
+                            <div class="accordion-item">
+								<h2 class="accordion-header">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThreeA" aria-expanded="false" aria-controls="collapseThreeA">
+                                        What gift card type can I buy on TWJ Hub?
+									</button>
+								</h2>
+								<div id="collapseThreeA" class="accordion-collapse collapse" data-bs-parent="#accordionTwo">
+									<div class="accordion-body">
+										<p>Discover a vast selection of gift cards on TWJ Hub, including popular brands like Apple, Netflix, Amazon, Steam Wallet, Google Play, eBay, Spotify, Razer Gold, Xbox Playstation, and more.</p>
+									</div>
+								</div>
+							</div>
+                            <div class="accordion-item">
+								<h2 class="accordion-header">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourA" aria-expanded="false" aria-controls="collapseFourA">
+                                        Is TWJ Hub Safe?
+									</button>
+								</h2>
+								<div id="collapseFourA" class="accordion-collapse collapse" data-bs-parent="#accordionTwo">
+									<div class="accordion-body">
+										<p>Experience peace of mind with TWJ Hub. Our robust security measures, including 2FA and a decentralized architecture, protect your account from unauthorized access and ensure your digital assets are always safe.</p>
 									</div>
 								</div>
 							</div>
@@ -182,36 +206,48 @@ include "./components/navbar-alt-light.php";
 							<div class="accordion-item">
 								<h2 class="accordion-header">
 									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneC" aria-expanded="false" aria-controls="collapseOneC">
-										How does the free trial work?
+                                        Is it safe to pay bills through TWJ?
 									</button>
 							  	</h2>
 							  	<div id="collapseOneC" class="accordion-collapse collapse" data-bs-parent="#accordionFour">
 									<div class="accordion-body">
-										<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+										<p>Your security is our top priority. At TWJ Hub, we employ the latest security measures to protect your personal information and transactions. You can trust us to keep your data safe.</p>
 									</div>
 							  	</div>
 							</div>
 							<div class="accordion-item">
 								<h2 class="accordion-header">
 									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourC" aria-expanded="false" aria-controls="collapseFourC">
-										Do you recommend Pay as you go or Pre pay?
+                                        Can I buy electricity on TWJ Hub?
 									</button>
 								</h2>
 								<div id="collapseFourC" class="accordion-collapse collapse" data-bs-parent="#accordionFour">
 									<div class="accordion-body">
-										<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+										<p>Yes, you can. Experience the convenience of online electricity bill payments with TWJ Hub.</p>
 									</div>
 								</div>
 							</div>
 							<div class="accordion-item">
 								<h2 class="accordion-header">
 									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFiveC" aria-expanded="false" aria-controls="collapseFiveC">
-										What do I get for $0 with my plan?
+                                        What bills can I pay on TWJ Hub?
 									</button>
 								</h2>
 								<div id="collapseFiveC" class="accordion-collapse collapse" data-bs-parent="#accordionFour">
 									<div class="accordion-body">
-										<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+										<p>Pay all your bills with ease on TWJ Hub. From airtime and data to internet, TV, and cable, we've got you covered. We're always adding new billers to ensure you have the most convenient bill payment experience possible.</p>
+									</div>
+								</div>
+							</div>
+                            <div class="accordion-item">
+								<h2 class="accordion-header">
+									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSixC" aria-expanded="false" aria-controls="collapseSixC">
+                                        How do I pay bills on TWJ Hub?
+									</button>
+								</h2>
+								<div id="collapseSixC" class="accordion-collapse collapse" data-bs-parent="#accordionFour">
+									<div class="accordion-body">
+										<p>To pay your bills, simply log in to your TWJ Hub account, choose the bill you want to pay, enter your details, and confirm your payment.</p>
 									</div>
 								</div>
 							</div>
