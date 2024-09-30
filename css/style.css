@@ -7,7 +7,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #19352d;
+    background: #4b0661;
     border-radius: 0
 }
 
@@ -229,7 +229,7 @@ hr {
     right: 5px;
     z-index: 99;
     text-align: center;
-    color: #19352d;
+    color: #4b0661;
     font-size: 25px;
     cursor: pointer;
     border-radius: 50%;
@@ -5008,7 +5008,7 @@ iframe {
 }
 
 .text-feature-five .bg-wrapper {
-    background: #fff2ac
+    background: #e9d8ee
 }
 
 .text-feature-five li {
@@ -5028,7 +5028,7 @@ iframe {
     width: 28px;
     height: 28px;
     border-radius: 50%;
-    background: #fff2ac;
+    background: #d46cf5;
     left: 10px;
     top: 7px;
     transition: all .2s ease-in-out 0s
@@ -5053,8 +5053,8 @@ iframe {
 }
 
 .text-feature-five .media-wrapper {
-    background: url(../images/media/img_20.jpg) no-repeat center;
     background-size: cover;
+    border-radius: 50px;
     z-index: 1
 }
 
@@ -5070,10 +5070,10 @@ iframe {
 
 .text-feature-five .media-wrapper .screen_01 {
     left: -9%;
-    bottom: -9%;
+    bottom: -2%;
     width: 46.3%;
     animation: jumpThree 5s infinite linear;
-    box-shadow: 0px 35px 70px rgba(0,0,0,.06)
+    /* box-shadow: 0px 35px 70px rgba(0,0,0,.06) */
 }
 
 .text-feature-six {
