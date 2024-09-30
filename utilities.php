@@ -22,7 +22,6 @@ include "./components/navbar.php";
 					</div>
 				</div>
 			</div>
-			<!-- <img src="images/lazy.svg" data-src="images/shape/shape_13.svg" alt="" class="lazy-img shapes shape_01"> -->
 			<img src="images/lazy.svg" data-src="images/shape/shape_13.svg" alt="" class="lazy-img shapes shape_02">
 		</div>
         
@@ -99,7 +98,7 @@ include "./components/navbar.php";
                                         What bills can I pay on TWJ Hub?
 									</button>
 								</h2>
-								<div id="collapseThree" class="accordion-collapse collapse show" data-bs-parent="#accordionOne">
+								<div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
 									<div class="accordion-body">
 										<p>Pay all your bills with ease on TWJ Hub. From airtime and data to internet, TV, and cable, we've got you covered. We're always adding new billers to ensure you have the most convenient bill payment experience possible.</p>
 									</div>
