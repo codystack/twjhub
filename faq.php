@@ -23,8 +23,7 @@ include "./components/navbar-alt-light.php";
             <div class="container">
                 <nav>
                     <div class="nav nav-tabs justify-content-center" id="nav-tab" role="tablist">
-                        <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#nav-all" type="button" role="tab">All</button>
-                        <button class="nav-link" data-bs-toggle="tab" data-bs-target="#nav-gift-cards" type="button" role="tab" >Gift Cards</button>
+                        <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#nav-gift-cards" type="button" role="tab" >Gift Cards</button>
                         <button class="nav-link" data-bs-toggle="tab" data-bs-target="#nav-crypto" type="button" role="tab" >Crypto</button>
                         <button class="nav-link" data-bs-toggle="tab" data-bs-target="#nav-utilities" type="button" role="tab" >Utilities</button>
                         <button class="nav-link" data-bs-toggle="tab" data-bs-target="#nav-funding" type="button" role="tab" >Funding</button>
@@ -33,95 +32,7 @@ include "./components/navbar-alt-light.php";
                     </div>
                 </nav>
                 <div class="tab-content mt-60 lg-mt-40">
-                    <div class="tab-pane fade show active" id="nav-all" role="tabpanel" tabindex="0">
-                        <div class="accordion accordion-style-one" id="accordionOne">
-							<div class="accordion-item">
-								<h2 class="accordion-header">
-									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-										How does the free trial work?
-									</button>
-							  	</h2>
-							  	<div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
-									<div class="accordion-body">
-										<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-									</div>
-							  	</div>
-							</div>
-							<div class="accordion-item">
-								<h2 class="accordion-header">
-									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-										How do you find different criteria in your process?
-									</button>
-								</h2>
-								<div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
-									<div class="accordion-body">
-										<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-									</div>
-								</div>
-							</div>
-							<div class="accordion-item">
-								<h2 class="accordion-header">
-									<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-										What do you look for in a founding team?
-									</button>
-								</h2>
-								<div id="collapseThree" class="accordion-collapse collapse show" data-bs-parent="#accordionOne">
-									<div class="accordion-body">
-										<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-									</div>
-								</div>
-							</div>
-							<div class="accordion-item">
-								<h2 class="accordion-header">
-									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-										Do you recommend Pay as you go or Pre pay?
-									</button>
-								</h2>
-								<div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
-									<div class="accordion-body">
-										<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-									</div>
-								</div>
-							</div>
-							<div class="accordion-item">
-								<h2 class="accordion-header">
-									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-										What do I get for $0 with my plan?
-									</button>
-								</h2>
-								<div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
-									<div class="accordion-body">
-										<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-									</div>
-								</div>
-							</div>
-                            <div class="accordion-item">
-								<h2 class="accordion-header">
-									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-										How does the free trial work?
-									</button>
-								</h2>
-								<div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
-									<div class="accordion-body">
-										<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-									</div>
-								</div>
-							</div>
-                            <div class="accordion-item">
-								<h2 class="accordion-header">
-									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-										What does First Round look for in an idea?
-									</button>
-								</h2>
-								<div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
-									<div class="accordion-body">
-										<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-                    </div>
-                    <div class="tab-pane fade" id="nav-gift-cards" role="tabpanel" tabindex="0">
+                    <div class="tab-pane fade show active" id="nav-gift-cards" role="tabpanel" tabindex="0">
                         <div class="accordion accordion-style-one" id="accordionTwo">
 							<div class="accordion-item">
 								<h2 class="accordion-header">
@@ -350,7 +261,6 @@ include "./components/navbar-alt-light.php";
 						</div>
                     </div>
                 </div>
-
 
                 <div class="text-center mt-60 lg-mt-50">
                     <h2 class="fs-1 mb-30">Don’t get your answer?</h2>

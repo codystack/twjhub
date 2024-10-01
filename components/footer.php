@@ -53,7 +53,7 @@
 							<div class="col-xxl-2 col-lg-3 col-sm-4 mb-20">
 								<h5 class="footer-title">Legal</h5>
 								<ul class="footer-nav-link style-none">
-									<li><a href="terms">Terms & conditions</a></li>
+									<li><a href="terms">Terms of use</a></li>
 									<li><a href="privacy">Privacy policy</a></li>
 									<li><a href="cookie">Cookie policy</a></li>
 									<li><a href="aml">AML policy</a></li>
