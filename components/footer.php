@@ -55,7 +55,6 @@
 								<ul class="footer-nav-link style-none">
 									<li><a href="terms">Terms of use</a></li>
 									<li><a href="privacy">Privacy policy</a></li>
-									<li><a href="cookie">Cookie policy</a></li>
 									<li><a href="aml">AML policy</a></li>
 									<li><a href="acknowledgements">Acknowledgements</a></li>
 								</ul>

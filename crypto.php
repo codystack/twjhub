@@ -83,36 +83,36 @@ include "./components/navbar.php";
 							<div class="accordion-item">
 								<h2 class="accordion-header">
 									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        How fast will I get my paid?
+                                        How do I deposit cryptocurrency?
 									</button>
 								</h2>
 								<div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
 									<div class="accordion-body">
-										<p>Enjoy instant delivery of your gift cards on TWJ Hub. Your purchase will be completed in just two minutes, and the gift card will be sent directly to your email and displayed on the transaction details page.</p>
+										<p>Simply copy the address or scan the QR code for the crypto coin in TWJ Hub to complete a deposit from an external source.</p>
 									</div>
 								</div>
 							</div>
 							<div class="accordion-item">
 								<h2 class="accordion-header">
 									<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                                        What gift card type can I buy on TWJ Hub?
+                                        How do I withdraw cryptocurrency from my wallet?
 									</button>
 								</h2>
 								<div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
 									<div class="accordion-body">
-										<p>Discover a vast selection of gift cards on TWJ Hub, including popular brands like Apple, Netflix, Amazon, Steam Wallet, Google Play, eBay, Spotify, Razer Gold, Xbox Playstation, and more.</p>
+										<p>Simply enter the address or scan the QR code for the crypto coin in TWJ Hub to complete a withdrawal to an external source.</p>
 									</div>
 								</div>
 							</div>
 							<div class="accordion-item">
 								<h2 class="accordion-header">
 									<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Is TWJ Hub Safe?
+                                        How to Buy Crypto using Bank Transfer?
 									</button>
 								</h2>
 								<div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionOne">
 									<div class="accordion-body">
-										<p>Experience peace of mind with TWJ Hub. Our robust security measures, including 2FA and a decentralized architecture, protect your account from unauthorized access and ensure your digital assets are always safe.</p>
+										<p>You can fund your TWJ Hub wallet via Bank Transfer (feature available for Nigeria Wallet), then you buy crypto on TWJ Hub using the funds in your wallet.</p>
 									</div>
 								</div>
 							</div>
