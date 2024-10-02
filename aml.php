@@ -8,7 +8,7 @@ include "./components/navbar.php";
 				<div class="row align-items-center">
 					<div class="col-lg-8 m-auto text-center">
 						<div class="tag">Legal</div>
-						<h1 class="hero-heading no-bg text-white">Anti-Money Laundry</h1>
+						<h1 class="hero-heading no-bg text-white">Privacy Policy</h1>
 					</div>
 				</div>
 			</div>
